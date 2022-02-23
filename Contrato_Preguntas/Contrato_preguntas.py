@@ -1,0 +1,5 @@
+edad = int("Introduce tu edad: ")
+nacionalidad = input("Ahora necesito saber tu nacionalidad")
+idioma1 = input("Dime que idioma hablas (1)")
+idioma2 = input("Dime que idioma hablas (2)")
+if (edad > 18 and nacionalidad == frances )
